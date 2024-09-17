@@ -61,3 +61,24 @@ Boas práticas de programação
     @author Claudio Silva
     @version 1.0
 */
+
+2) Nomes de arquivos, variáveis, funções, classes, etc
+Regras (clean code)
+- Declarar nomes que tenham relação com o problema
+- Não usar espaço, "ç", acentos e caracteres especiais
+para declaração de nomes (erros internos no programa)
+- Só classes iniciam com letra maiúscula
+- Não iniciar um nome com número
+- Quando for declarar dois nomes usar a técnica do camelo
+(camel case) - Usar uma letra maiúscula na segunda palavra
+Exemplo:
+nomecliente -> nomeCliente
+
+____________________________________________________
+Comandos básicos do MS-DOS
+cls -> limpar a tela
+dir -> listar arquivos e diretórios
+cd nome_diretório -> entrar no diretório
+cd .. -> voltar par ao diretório anterior
+
+____________________________________________________
