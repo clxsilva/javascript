@@ -14,16 +14,16 @@ que possível para valores que não precisam mudar, facilitando a
 manutenção do código.
  
 Uma variável é um espaço na memória do computador onde armazenamos
-dados que podem ser utilizados e modificados durante a execução de um
-programa. O nome "variável" vem do fato de que o valor armazenado pode
-variar ao longo do tempo, conforme o programa roda.
+dados que podem ser utilizados e modificados durante a execução de
+um programa. O nome "variável" vem do fato de que o valor armazenado
+pode variar ao longo do tempo, conforme o programa roda.
  
 Por que usar variáveis?
 Para guardar informações que você vai precisar mais tarde.
 Para realizar cálculos ou tomar decisões baseadas em diferentes valores.
  
-Nas linguagens de programação as variáveis são tipadas ou 
-dinamicamente tipadas
+Nas linguagens de programação as variáveis são tipadas ou dinamicamente
+tipadas
  
 Existem 3 tipos de variáveis:
  
