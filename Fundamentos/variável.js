@@ -31,6 +31,8 @@ String -> armazena caracteres e numeros
 Number -> armazena numeros inteiros e nao interios 
 Boolean -> true | false
  
+ATENÇÃO: No JavaScript uma variável pode ser criada
+usando let ou var
 ________________________________________________________________________
 Comando JavaScript (Sintaxe)
 console.log() -> escrever no console 
