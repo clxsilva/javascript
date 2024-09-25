@@ -1,5 +1,5 @@
 /**
- *  Operadores aritméticos
+ * Operadores aritméticos
  * @author Claudio Silva
  */
 
