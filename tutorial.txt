@@ -25,7 +25,7 @@ electron
 # testes
 
 # pi
-___________________________________
+_____________________
 Lógica de programação
 - variáveis
 - operadores
@@ -34,6 +34,26 @@ Lógica de programação
 - POO
 - estruturas de dados
 
+__________________________
+MANDAMENTOS DA PROGRAMAÇÃO
+
+1) UX (User eXperience) - desenvolver sempre pensando na
+experiência do usuário.
+
+Dica de vídeo: https://youtu.be/Z1GNW_woXIO?si=rT8A-7amLsIxuoKW
+
+2) Usar o mínimo possível de código (variáveis, operadores,
+comparadores, estruturas de controle etc) para resolver o
+problema (lembrar do marcapasso)
+
+3) Entender o problema. Não adianta sentar na frente do computador
+se você não sabe resolver o problema.
+"Algorítmo" ("receita do bolo")
+Conceito:
+            variáveis
+entrada - processamento - saída
+
+____________
 GIT e GITHUB
 
 Comandos básicos do git:
@@ -52,7 +72,7 @@ Gerar token GitHub
 3) Token classic
 4) Gerar o token selecionando tudo, guardar o token
 
-___________________________________________________
+____________________________
 Boas práticas de programação
 1) Cabeçalho de documentação
 /**
@@ -74,17 +94,19 @@ para declaração de nomes (erros internos no programa)
 Exemplo:
 nomecliente -> nomeCliente
 
-____________________________________________________
+__________________________
 Comandos básicos do MS-DOS
 cls -> limpar a tela
 dir -> listar arquivos e diretórios
 cd nome_diretório -> entrar no diretório
 cd .. -> voltar par ao diretório anterior
 
-____________________________________________________
+_____________________________
 Desafio 1: "A hora do código"
 https://hourofcode.com/br/learn
-Escolher um desafio "A hora do código", fazer e ao final salvar o certificado, postar no linkedin e marcar
-o professor: @professorjosedeassis (caso não tenha linkedin, mostrar ao professor)
+
+Escolher um desafio "A hora do código", fazer e ao final salvar
+o certificado, postar no linkedin e marcar o professor:
+@professorjosedeassis (caso não tenha linkedin, mostrar ao professor)
 
 site code.org
