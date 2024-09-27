@@ -24,6 +24,8 @@ npm -v (versão do npm)
 npm ls (listar pacotes instalados)
 npm init (iniciar um novo projeto JavaScript)
     |_____ package.json
+npm i nome_do_pacote (instalar um novo pacote)
+npm r nome_do_pacote (remover um pacote)
 
 json (JavaScript Object Notation)
 
