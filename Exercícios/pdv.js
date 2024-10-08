@@ -1,6 +1,6 @@
 /** 
  * Ponto de venda
- * @@author Claudio Silva
+ * @author Claudio Silva
  */
 
 const input = require('readline-sync')
