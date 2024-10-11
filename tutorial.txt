@@ -110,3 +110,25 @@ o certificado, postar no linkedin e marcar o professor:
 @professorjosedeassis (caso não tenha linkedin, mostrar ao professor)
 
 site code.org
+
+_____________________________
+Estruturas de controle
+- condicionais
+- laços de repetições
+
+Estruturas de controles condicionais
+
+if (condição) {
+    // condição verdadeira
+}
+
+
+if (condição) {
+    // condição verdadeira
+} else {
+    // condição falsa
+}
+
+Observações:
+1) Uma condição nunca pode ser verdadeira e falsa simultaneamente.
+2) No uso do if-else sempre uma das condições será processada.
