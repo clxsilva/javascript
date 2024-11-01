@@ -116,7 +116,7 @@ Estruturas de controle
 - condicionais
 - laços de repetições
 
-Estruturas de controles condicionais
+ - Estruturas de controles condicionais
 
 if (condição) {
     // condição verdadeira
@@ -144,3 +144,52 @@ if (condição) {
 Obs: Nesta observação o else é opcional, porém se indicado caso
 nenhuma condição for verdadeira ele obrigatoriamente executará
 o que estiver no else.
+
+switch case (uso de variável numérica (número inteiro))
+
+switch (variável) {
+    case 1:
+    // código caso o valor da variável seja 1
+    break
+    case 2:
+    // código caso o valor da variável seja 2
+    break
+    default:
+    // opcional, o código será executado se nenhum caso for
+    definido
+    break
+
+ - Estruturas de controle - Laços de repetições
+
+for (let i = 1; i < 10; i++) {
+    // o código aqui dentro será repetido enquanto a condição
+    for verdadeira
+}
+
+// laço com número de repetições definidas
+// let i = 1 (início)
+// i < 10 (condição)
+// i++ (incremento) i-- (decremento)
+
+Uso do laço for 
+1) Percorrer uma estrutura de dados (Importante)
+2) Simplificar linhas de código (O código)
+3) Fazer cálculos levando em conta a variável interna do laço
+
+while (condição) {
+    // condição verdadeira
+}
+
+do {
+    // executa o código uma vez independente da condição e depois
+    analisa a condição
+} while (condição)
+
+As estruturas while e do-while são estruturas de repetições
+infinitas, ou seja enquanto a condição for verdadeira o código
+interno será repetido infinitamente
+
+______________________________________________________________
+Executando o JavaScript junto com o HTML
+- Execução interna no próprio documento HTML
+- Link com um documento JS (preferencialmente)
