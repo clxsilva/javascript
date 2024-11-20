@@ -1,0 +1,67 @@
+Nível 1: Fácil
+Exercício 1: Par ou Ímpar Escreva um programa que recebe um número inteiro
+do usuário e informa se ele é par ou ímpar.
+
+Dica: Utilize o operador módulo (%) para verificar o resto da divisão.
+
+Exercício 2: Verificação de Idade Crie um programa que receba a idade de uma
+pessoa e diga se ela é maior de idade (18 anos ou mais) ou menor de idade
+(menos de 18 anos).
+
+Dica: Use if e else para tomar a decisão.
+
+Exercício 3: Saudação de Bom Dia Crie um programa que receba o horário atual
+(em horas) e mostre uma saudação de acordo com a hora:
+
+"Bom dia" para 06:00 até 11:59.
+"Boa tarde" para 12:00 até 17:59.
+"Boa noite" para 18:00 até 05:59.
+Nível 2: Médio
+Exercício 4: Calculadora Simples Crie um programa que receba dois números e
+um operador (+, -, *, /). O programa deve realizar a operação escolhida e
+exibir o resultado. Se o operador for inválido, mostre uma mensagem de erro.
+
+Dica: Use switch case para verificar o operador.
+
+Exercício 5: Desconto em Produto Crie um programa que calcule o preço final
+de um produto após aplicar um desconto. Se o preço do produto for maior que 
+100, o desconto será de 10%. Se for menor ou igual a 100, o desconto será de 5%.
+
+Exercício 6: Menu de Opções Crie um menu que permite ao usuário escolher uma
+opção de um menu (1 a 3):
+
+1: Mostrar "Opção 1 escolhida"
+2: Mostrar "Opção 2 escolhida"
+3: Mostrar "Opção 3 escolhida"
+Qualquer outro número: Mostrar "Opção inválida"
+Utilize um switch case para controlar as opções do menu.
+
+Nível 3: Difícil
+Exercício 7: Empréstimo Bancário Escreva um programa que verifique se uma
+pessoa pode pegar um empréstimo. O programa deve considerar:
+
+Se a pessoa tem idade superior a 18 anos.
+Se a renda mensal é maior ou igual a R$ 1.500,00.
+Se o valor do empréstimo solicitado não é superior a 3 vezes a renda mensal.
+Se todos os critérios forem atendidos, o programa deve permitir o empréstimo;
+caso contrário, negar.
+
+Exercício 8: Classificação de Notas Crie um programa que recebe uma nota
+(0 a 100) e classifique de acordo com os seguintes critérios:
+
+De 90 a 100: "Aprovado com Distinção"
+De 70 a 89: "Aprovado"
+De 50 a 69: "Recuperação"
+Abaixo de 50: "Reprovado"
+Dica: Use if, else if e else para a classificação.
+
+Exercício 9: Tabuada Crie um programa que receba um número e exiba sua tabuada
+(de 1 a 10). O programa deve usar um laço de repetição para mostrar a tabuada.
+
+Dica: Embora esse exercício use um laço (for ou while), você pode usar a
+estrutura condicional para validar o número informado (se é um número positivo,
+por exemplo).
+
+
+
+
