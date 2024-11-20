@@ -4,9 +4,10 @@
  */
 
 const input = require('readline-sync')
+console.log(typeof(input))
 
 let consumo, peso
-console.clear()
+// console.clear()
 peso = Number(input.question("Digite o seu peso (Kg): "))
 consumo = peso * 0.035
 console.log(`Consumo diário de água deve ser: ${consumo.toFixed(2)}`)
