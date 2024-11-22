@@ -17,12 +17,12 @@ class Carro {
 
     // criar o carro
     criar() {
+        console.log("________________________________________________________________")
         console.log(`Criando carro... Modelo: ${this.modelo}, Ano: ${this.ano}, Cor: ${this.cor}`)
     }
 
     // método para ligar o carro
     ligar() {
-        console.log("________________________________________________________________")
         if (!this.ligado) {
             this.ligado = true;
             console.log(`O ${this.modelo} ${this.cor} ligou!`)
@@ -59,6 +59,7 @@ class Aviao extends Carro {
     }
 
     criarAviao() {
+        console.log("________________________________________________________________")
         console.log(`Criando avião... Modelo: ${this.modelo}, Cor: ${this.cor}, Envergadura: ${this.envergadura}`)
     }
 
