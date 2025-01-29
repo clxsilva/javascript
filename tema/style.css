@@ -1,0 +1,20 @@
+/*
+    color-scheme
+    light (claro)
+    dark (escuro)
+    light dark (automático / de acordo com as preferências do usuário que utiliza o sistema)
+    obs: não definir cores para background e textos
+*/
+
+html {
+    color-scheme: auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: max-content;
+    margin: 0 auto;
+}
